@@ -1,5 +1,7 @@
 cbpi4-MCP23017-Actor
 
+https://github.com/lwagy/cbpi4-MCP23017-Actor/blob/main/MCP23017%20Actor.png
+
 CraftBeerPi Actor Addon
 
 MCP23017 board using I2c interface.
