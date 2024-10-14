@@ -5,7 +5,7 @@ setup(name='cbpi4-MCP23017Actor',
       description='CraftBeerPi Plugin',
       author='Lawrence Wagy',
       author_email='lnwagy@gmail.com',
-      url='https://wagyhof.com',
+      url='https://github.com/lwagy/cbpi4-MCP23017-Actor',
       include_package_data=True,
       package_data={
         # If any package contains *.txt or *.rst files, include them:
