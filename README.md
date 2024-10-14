@@ -13,7 +13,8 @@ MCP Inverted - True or False
 cbpi Instalation:
 pipx runpip cbpi4 install https://github.com/lwagy/cbpi4-MCP23017-Actor.git
 or
-
+Clone from github
 pipx runpip cbpi4 install ./cbpi4-MCP23017-Actor
+
 
 
